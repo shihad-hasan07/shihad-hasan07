@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header](https://your-image-url.com/header.png)
+![Header](https://github.com/shihad-hasan07/shihad-hasan07/blob/main/image/Screenshot%202024-09-26%20001028.png)
 
 ## About Me
 
