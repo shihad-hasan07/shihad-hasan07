@@ -41,10 +41,12 @@ Those who lives under proverty they live a miserable life. By donating you valua
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:shihadhasan607255@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 ---
 
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<!-- ![Footer](https://your-image-url.com/footer.png) -->
 
-![Footer](https://your-image-url.com/footer.png)
+
