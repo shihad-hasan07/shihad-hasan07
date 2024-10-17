@@ -9,7 +9,7 @@ Hi there! I'm a passionate web developer with a love for creating beautiful, use
 - 🔭 Currently working on: Awesome web projects
 - 🌱 Currently learning: Advanced JavaScript, React, and Node.js
 - 💬 Ask me about: Web development, JavaScript, and design
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: shihadhasan607255@gmail.com
 - ⚡ Fun fact: I can code and listen to music all day without getting tired!
 
 ## Skills
