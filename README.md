@@ -9,7 +9,7 @@ Hi there! I'm a passionate web developer with a love for creating beautiful, use
 - 🔭 Currently working on: Awesome web projects
 - 🌱 Currently learning: Advanced JavaScript, React, and Node.js
 - 💬 Ask me about: Web development, JavaScript, and design
-- 📫 How to reach me: [Shihad Hasan](https://www.facebook.com/profile.php?id=100076352076772)
+- 📫 Reach me on facebook: [Shihad Hasan](https://www.facebook.com/profile.php?id=100076352076772)
 
 ## Skills
 
