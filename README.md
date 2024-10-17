@@ -34,7 +34,7 @@ Hi there! I'm a passionate web developer with a love for creating beautiful, use
 You can adopt loving pets, discover adoption options, and access resources for new pet owners, ensuring a smooth transition for your new furry family member.
 
 ### Project 2: [Donate Bangladesh](https://shihad-hasan07.github.io/Donate-Bangladesh/)
-Those who lives under proverty they live a miserable life. By donating you valuable money you can helps them.
+Those who lives under proverty they live a miserable life. By donating your valuable money you can helps them.
 
 ## Connect with Me
 
