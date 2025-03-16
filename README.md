@@ -1,6 +1,6 @@
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Shihad!+🙋‍♂️;+Welcome+to+my+profile+💕;&color=FF5733" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Shihad+Hasan.+🙋‍♂️;+Welcome+to+my+profile+💕;&color=FF5733" />
 </h1>
 
 ![Header](https://github.com/shihad-hasan07/shihad-hasan07/blob/main/image/profile-banner.jpg)
