@@ -33,7 +33,7 @@ Hi there! I'm a passionate web developer with a love for creating beautiful, use
 
 ## Projects
 
-### Project 1: [Pet-Adoption Center](https://peddy-pet-adoption-center.netlify.app/)
+### Project 1: [Pet-Adoption Center](https://pet-bridge.web.app/)
 You can adopt loving pets, discover adoption options, and access resources for new pet owners, ensuring a smooth transition for your new furry family member.
 
 ### Project 2: [Donate Bangladesh](https://shihad-hasan07.github.io/Donate-Bangladesh/)
@@ -44,7 +44,7 @@ Those who lives under proverty they live a miserable life. By donating your valu
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shihad-hasan07/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:shihadhasan607255@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://shihad-hasan.web.app/)
 
 ---
 
