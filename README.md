@@ -1,4 +1,3 @@
-
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Shihad+Hasan.+🙋‍♂️;+Welcome+to+my+profile+💕;&color=FF5733" />
 </h1>
@@ -23,8 +22,10 @@ Hi there! I'm a passionate web developer with a love for creating beautiful, use
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
@@ -37,7 +38,7 @@ Hi there! I'm a passionate web developer with a love for creating beautiful, use
 You can adopt loving pets, discover adoption options, and access resources for new pet owners, ensuring a smooth transition for your new furry family member.
 
 ### Project 2: [Donate Bangladesh](https://shihad-hasan07.github.io/Donate-Bangladesh/)
-Those who lives under proverty they live a miserable life. By donating your valuable money you can helps them.
+Those who live under poverty lead miserable lives. By donating your valuable money, you can help them.
 
 ## Connect with Me
 
@@ -50,5 +51,3 @@ Those who lives under proverty they live a miserable life. By donating your valu
 
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 <!-- ![Footer](https://your-image-url.com/footer.png) -->
-
-
