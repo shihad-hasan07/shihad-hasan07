@@ -34,10 +34,10 @@ Hi there! I'm a passionate web developer with a love for creating beautiful, use
 
 ## Projects
 
-### Project 1: [Pet-Adoption Center](https://pet-bridge.web.app/)
+### Project 1: [Pet-bridge](https://pet-bridge.web.app/)
 You can adopt loving pets, discover adoption options, and access resources for new pet owners, ensuring a smooth transition for your new furry family member.
 
-### Project 2: [Donate Bangladesh](https://shihad-hasan07.github.io/Donate-Bangladesh/)
+### Project 2: [Foco](https://foody-cart-6c36f.web.app/)
 Those who live under poverty lead miserable lives. By donating your valuable money, you can help them.
 
 ## Connect with Me
