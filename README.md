@@ -9,7 +9,7 @@
 Hi there! I'm a passionate web developer with a love for creating beautiful, user-friendly websites and applications. With a keen eye for detail and a drive for innovation, I strive to push the boundaries of web development.
 
 - 🔭 Currently working on: Awesome web projects
-- 🌱 Currently learning: Advanced JavaScript, React, and Node.js
+- 🌱 Currently learning: Advanced TypeScript.
 - 💬 Ask me about: Web development, JavaScript, and design
 - 📫 Reach me on facebook: [Shihad Hasan](https://www.facebook.com/profile.php?id=100076352076772)
 
@@ -34,11 +34,23 @@ Hi there! I'm a passionate web developer with a love for creating beautiful, use
 
 ## Projects
 
-### Project 1: [Pet-bridge](https://pet-bridge.web.app/)
-You can adopt loving pets, discover adoption options, and access resources for new pet owners, ensuring a smooth transition for your new furry family member.
+### Project 1: [Stylemart](https://stylemart-shop.vercel.app/)
+A modern e-commerce management system with secure authentication and role-based access.
 
-### Project 2: [Foco](https://foody-cart-6c36f.web.app/)
-Those who live under poverty lead miserable lives. By donating your valuable money, you can help them.
+**Key Features:**
+- 🔐 4-tier role-based access control
+- 💳 bKash/Nagad payment verification
+- 🔑 Firebase authentication
+- ⚡ Next.js SSR & SSG
+
+### Project 2: [Pet-Bridge](https://pet-bridge.web.app/)
+A pet adoption and donation platform for finding pets and managing adoption applications.
+
+**Key Features:**
+- 🐾 Pet browsing & adoption application
+- 📊 Admin dashboard
+- 🔐 Firebase & JWT authentication
+- 💰 Donation functionality
 
 ## Connect with Me
 
